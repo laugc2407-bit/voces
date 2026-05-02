@@ -28,8 +28,8 @@ client1.on_message = on_message
 
 
 
-st.title("INTERFACES MULTIMODALES")
-st.subheader("CONTROL POR VOZ")
+st.title("CONTROL POR VOZ")
+st.subheader("Dí tu petición y la llevaremos a cabo")
 
 image = Image.open('voice_ctrl.jpg')
 
